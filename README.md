@@ -143,7 +143,7 @@ A IA foi utilizada de duas formas neste projeto:
 
 ## Link do repositorio (GitHub)
 
-(adicionar o link do repositorio aqui)
+https://github.com/ThiagoVitelo/SPRINT-3-WEBDEV.git
 
 ## Link do Deploy na Vercel
 
